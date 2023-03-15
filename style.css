@@ -19,8 +19,6 @@ body {
   
 }
 
-  
-
 
 a:link {
     color: black;
@@ -60,7 +58,6 @@ a:visited {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
-    float: left;
 }
 
 h1 {
@@ -87,10 +84,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    font-size: 16px;
-    font-family: fantasy;
-}
 
 .img-grid {
     width: 900px;
